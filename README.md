@@ -138,3 +138,10 @@ License
 
 MIT License (including **all** dependencies).
 
+Sobax
+==================
+WLS2 20.04.6
+nodejs v20.12.2
+
+
+
